@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "china-stock-mcp": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "/Users/local/Workspace/agents/mcp/china-stock-mcp/china-stock-mcp-server",
+                "run",
+                "server.py"
+            ]
+        }
+    }
+}
